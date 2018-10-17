@@ -1,0 +1,6 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\QueueClass\QueueClass\bin\Debug\QueueClass.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\QueueClass\QueueClass\bin\Debug\QueueClass.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\QueueClass\QueueClass\bin\Debug\QueueClass.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\QueueClass\QueueClass\obj\Debug\QueueClass.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\QueueClass\QueueClass\obj\Debug\QueueClass.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\QueueClass\QueueClass\obj\Debug\QueueClass.pdb
